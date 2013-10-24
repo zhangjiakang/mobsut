@@ -1,0 +1,19 @@
+#wrapper #container .breadcrumb {
+	font-size:1em;
+}
+.description {
+	font-size:1em!important;
+}
+#admin-menu {
+	font-size:1em;
+}
+#admin-menu li.admin-menu-tab {
+  background:black;
+}
+.views-display div {
+	font-size:1em!important;
+}
+div.admin-dependencies,
+div.admin-required {
+font-size:1em!important;
+}

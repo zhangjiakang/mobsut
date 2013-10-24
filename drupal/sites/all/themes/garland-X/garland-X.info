@@ -1,0 +1,7 @@
+name = Garland-X
+description = garland子主题，改善部分字体过小等一些中文界面下问题，<a href="http://xdrupal.org">xDrupal.org</a>制作。
+version = VERSION
+core = 6.x
+base theme = garland
+
+stylesheets[all][] = garland-X.css
